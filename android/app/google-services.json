@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "798973735070",
+    "firebase_url": "https://newcodev-5c41f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "newcodev-5c41f",
+    "storage_bucket": "newcodev-5c41f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798973735070:android:ce331637bcc728cbde0b8f",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798973735070-oeaqgjfd6sq9sc9g62f1g1fpcj7nucig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfP0Jql3OEKPOgHi2fLm_HB0j5gieRo90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798973735070-oeaqgjfd6sq9sc9g62f1g1fpcj7nucig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798973735070-064l2fkaq0h3no69p7n1g58nave86rk7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798973735070:android:ef4d08beafb35c3cde0b8f",
+        "android_client_info": {
+          "package_name": "com.example.video_edit_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798973735070-oeaqgjfd6sq9sc9g62f1g1fpcj7nucig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfP0Jql3OEKPOgHi2fLm_HB0j5gieRo90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798973735070-oeaqgjfd6sq9sc9g62f1g1fpcj7nucig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798973735070-064l2fkaq0h3no69p7n1g58nave86rk7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
